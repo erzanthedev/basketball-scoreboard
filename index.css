@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: #1b244a;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button:hover {
+  box-shadow: 0 0 6px 3px black;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  gap: 200px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 35.89px;
+  color: #eeeeee;
+  margin-bottom: 21px;
+}
+
+.points {
+  background: #080001;
+  color: #f94f6d;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  font-size: 90px;
+  line-height: 126.67px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 0;
+  width: 155px;
+}
+
+.points-btn-container {
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}
+
+.add-points-btn {
+  border: 2px solid #9aabd8;
+  background: #1b244a;
+  border-radius: 5px;
+  color: #9aabd8;
+  outline: none;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27.81px;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#reset {
+  border: 2px solid #9aabd8;
+  background: #1b244a;
+  border-radius: 5px;
+  color: #f94f6d;
+  outline: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27.81px;
+  text-align: center;
+  padding: 8px 20px;
+  cursor: pointer;
+}
