@@ -5,6 +5,25 @@
     <title>Document</title>
   </head>
   <body>
-    <h1>Scoreboard Basketball</h1>
+    <div class="container">
+      <div>
+        <h3 class="title">HOME</h3>
+        <p id="home-point-el" class="points">0</p>
+        <div class="points-btn-container">
+          <button class="add-points-btn" onclick="addHomeOne()">+1</button>
+          <button class="add-points-btn" onclick="addHomeTwo()">+2</button>
+          <button class="add-points-btn" onclick="addHomeThree()">+3</button>
+        </div>
+      </div>
+      <div>
+        <h3 class="title">GUEST</h3>
+        <p id="guest-point-el" class="points">0</p>
+        <div class="points-btn-container">
+          <button class="add-points-btn" onclick="addGuestOne()">+1</button>
+          <button class="add-points-btn" onclick="addGuestTwo()">+2</button>
+          <button class="add-points-btn" onclick="addGuestThree()">+3</button>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
