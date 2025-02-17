@@ -24,7 +24,7 @@ The project was initially built using **Scrimba’s built-in editor (Scrim)** an
 
 - **HTML** – Structuring the scoreboard layout.
 - **CSS** – Styling the scoreboard for a polished appearance.
-- **JavaScript** – Implementing the logic for random password generation.
+- **JavaScript** – Implementing the logic for incrementing and resetting scores.
 - **Figma** – Used as a design reference to ensure **pixel-perfect** replication.
 
 ---
