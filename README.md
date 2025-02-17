@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-The **Basketball Scoreboard** project was built as part of Scrimba’s _Frontend Developer Career Course_ under the _HTML & CSS web development basics_ section. This was a **solo project**, designed to strengthen my HTML & CSS skills while also giving me an opportunity to practice replicating UI from a **Figma mockup design**.
+The **Basketball Scoreboard** project was built as part of Scrimba’s _Frontend Developer Career Course_ under the _HTML & CSS web development basics_ section. This was a **solo project**, designed to strengthen my HTML , CSS & Javascript skills while also giving me an opportunity to practice replicating UI from a **Figma mockup design**.
 
 The project was initially built using **Scrimba’s built-in editor (Scrim)** and later uploaded to **GitHub** for better version control and portfolio purposes.
 
@@ -14,7 +14,7 @@ The project was initially built using **Scrimba’s built-in editor (Scrim)** an
 
 ## 🎯 Purpose
 
-- **Revisiting HTML & CSS**: Reinforcing fundamental web development concepts.
+- **Revisiting HTML, CSS & Javascript**: Reinforcing fundamental web development concepts.
 - **Practicing Figma Design Implementation**: Matching the provided **Figma mockup design** as closely as possible.
 - **Enhancing UI Development Skills**: Creating a **clean, structured, and visually appealing scoreboard interface**.
 
@@ -24,13 +24,14 @@ The project was initially built using **Scrimba’s built-in editor (Scrim)** an
 
 - **HTML** – Structuring the scoreboard layout.
 - **CSS** – Styling the scoreboard for a polished appearance.
+- **JavaScript** – Implementing the logic for random password generation.
 - **Figma** – Used as a design reference to ensure **pixel-perfect** replication.
 
 ---
 
 ## 🏆 What I Learned
 
-✅ Strengthened my **HTML & CSS** knowledge.  
+✅ Strengthened my **HTML, CSS & Javascript** knowledge.  
 ✅ Improved my **UI replication skills** by working with a **Figma mockup design**.  
 ✅ Practiced working in **Scrimba's Scrim editor** and transferring files to **GitHub**.
 
@@ -45,7 +46,6 @@ The project was initially built using **Scrimba’s built-in editor (Scrim)** an
 
 ## 🚀 Future Improvements
 
-- Adding **JavaScript functionality** to dynamically update scores.
 - Implementing **animations** for a smoother user experience.
 
 ---
@@ -62,5 +62,5 @@ The project was initially built using **Scrimba’s built-in editor (Scrim)** an
 
 ## 🎉 Final Thoughts
 
-This was a **fun and engaging** project that helped me solidify my **HTML & CSS** fundamentals while also working with **Figma for UI replication**. Excited for the next challenge! 🚀
+This was a **fun and engaging** project that helped me solidify my **HTML, CSS & Jvascript** fundamentals while also working with **Figma for UI replication**. Excited for the next challenge! 🚀
 
